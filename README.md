@@ -1,11 +1,11 @@
 <h1> Spring-React CRUD API </h1> 
 
 
-[![Spring - Boot](https://img.shields.io/static/v1?label=Spring&message=Boot&color=2ea44f&style=for-the-badge&logo=Spring)](https://spring.io/) [![React - JS](https://img.shields.io/static/v1?label=React&message=JS&color=lightblue&style=for-the-badge&logo=React)](https://reactjs.org/) [![Bootstrap - CSS](https://img.shields.io/static/v1?label=Bootstrap&message=CSS&color=purple&style=for-the-badge&logo=Bootstrap)](https://getbootstrap.com/) 
+[![Spring - Boot](https://img.shields.io/static/v1?label=Spring&message=Boot&color=2ea44f&style=for-the-badge&logo=Spring)](https://spring.io/) [![React - JS](https://img.shields.io/static/v1?label=React&message=JS&color=lightblue&style=for-the-badge&logo=React)](https://reactjs.org/) [![MySQL - DB](https://img.shields.io/static/v1?label=MySQL&message=DB&color=orange&style=for-the-badge&logo=MySQL&logoColor=lightblue)](https://www.mysql.com/) [![Bootstrap - CSS](https://img.shields.io/static/v1?label=Bootstrap&message=CSS&color=purple&style=for-the-badge&logo=Bootstrap)](https://getbootstrap.com/) 
 
 <h2> This is just a tutorial I followed to get started with Spring Boot and React </h2>
 
-<p> The landing page looks like this and all the styling is done using Bootstrap. </p>
+<p> The landing page looks like this, the API uses a MySQL database and all the styling is done using Bootstrap. </p>
 
 <img src="https://user-images.githubusercontent.com/44103446/209985034-5537b4c0-9015-40f4-8282-be571a4642f7.png"></img>
 
